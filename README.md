@@ -2,3 +2,5 @@ Ok so this is related to https://github.com/sahilng/alpha, however this is a hos
 and have it be stored in the alpha.us.org database. From there it can be shared publicly or kept private. There would be potentials to render certificates nicely for using as an image, also integrations can be possible for verification and for creating exportable certificates that can be shown on LinkedIn, etc.
 
 The code here is just a sample, really, of how that 'creation' might look.
+
+Furthermore, the long-term revenue generation goal (this could be a for-profit corporation under the nonprofit, or perhaps an operation of the nonprofit itself) would be to provide matching services for those looking for people with certain skills (should the user opt-in). You could imagine AI playing a role in that matching from client request to people output with relevant certificates / experiences.
